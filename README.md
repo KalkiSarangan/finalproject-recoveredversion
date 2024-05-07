@@ -5,8 +5,8 @@ This application is intended to be used by an xray technician/medical profession
 # To use the app:
 
 - mkdir final_project
-- git clone https://github.com/KalkiSarangan/final-flask.git
-- cd final-flask
+- git clone git@github.com:KalkiSarangan/finalproject-recoveredversion.git
+- cd finalproject-recoveredversion
 - docker-compose up
 - navigate to 127.0.0.1:5000/home
 - docker-compose stop
