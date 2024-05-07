@@ -1,0 +1,7 @@
+Flask
+flask_wtf
+gunicorn
+keras
+numpy
+tensorflow
+Pillow
